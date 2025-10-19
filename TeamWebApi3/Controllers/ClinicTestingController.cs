@@ -2,5 +2,7 @@
 {
     public class ClinicTestingController
     {
+        int a = 10;
+        
     }
 }
