@@ -1,0 +1,6 @@
+@TeamWebApi3_HostAddress = http://localhost:5159
+
+GET {{TeamWebApi3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
